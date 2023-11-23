@@ -20,45 +20,57 @@ Navigate to Project Directory:
 bash
 Copy code
 cd your-project
-Start XAMPP:
+## Start XAMPP:
 
-Open XAMPP and start the Apache server.
-Configure Virtual Host (Optional):
+- Open XAMPP and start the Apache server.
 
-If you want to set up a custom domain, update the virtual host configuration in httpd-vhosts.conf and add an entry to your system's hosts file.
-Access the Project:
+### Configure Virtual Host (Optional):
 
-Open your web browser and go to http://localhost/your-project.
-Editing PHP Files
-Locate PHP Files:
+If you want to set up a custom domain, update the virtual host configuration in `httpd-vhosts.conf` and add an entry to your system's hosts file.
 
-PHP files are located in the htdocs directory inside your XAMPP installation folder.
-Use a Code Editor:
+### Access the Project:
 
-Open the PHP files with your preferred code editor (e.g., Visual Studio Code, Sublime Text).
-Make Changes:
+- Open your web browser and go to [http://localhost/your-project](http://localhost/your-project).
 
-Edit the PHP files according to your requirements.
-Save Changes:
+## Editing PHP Files
 
-Save the changes in your code editor.
-Refresh Browser:
+### Locate PHP Files:
 
-Refresh your browser to see the updated changes.
-Contributing
+PHP files are located in the `htdocs` directory inside your XAMPP installation folder.
+
+### Use a Code Editor:
+
+- Open the PHP files with your preferred code editor (e.g., Visual Studio Code, Sublime Text).
+
+### Make Changes:
+
+- Edit the PHP files according to your requirements.
+
+### Save Changes:
+
+- Save the changes in your code editor.
+
+### Refresh Browser:
+
+- Refresh your browser to see the updated changes.
+
+## Contributing
+
 If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch: git checkout -b feature/new-feature.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Submit a pull request.
-License
-This project is licensed under the [Your License] - see the LICENSE.md file for details.
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/new-feature`.
+3. Make your changes and commit them: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature/new-feature`.
+5. Submit a pull request.
 
-Acknowledgments
-Thanks to the XAMPP team for providing a robust local development environment.
-Hat tip to anyone whose code was used.
+## License
+
+This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- Thanks to the XAMPP team for providing a robust local development environment.
+- Hat tip to anyone whose code was used.
+
 Happy coding!
-
-css
