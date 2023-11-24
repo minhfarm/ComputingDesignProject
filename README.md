@@ -16,9 +16,9 @@ Before you begin, make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/your-username/your-project.git
 2. **Navigate to Project Directory:**
-bash
-Copy code
-cd your-project
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+   cd your-project
 
 
 ## Start XAMPP:
