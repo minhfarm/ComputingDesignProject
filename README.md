@@ -2,7 +2,7 @@
 
 Welcome to the Computing Boiz Team repository! This project utilizes XAMPP for local development and includes guidelines on setting up XAMPP and provided code to run database .
 
-## Getting Started
+# Getting Started
 
 ## Prerequisites
 
@@ -11,13 +11,13 @@ Before you begin, make sure you have the following installed on your machine:
 - XAMPP: [Download and Install XAMPP](https://www.apachefriends.org/index.html)
 
 ## Set up the local host
-## Start XAMPP:
+1. Start XAMPP:
 
 - Open XAMPP and start the MySql server.
 
 ![image](https://github.com/minhfarm/ComputingDesignProject/assets/125583435/d5998d58-3910-43d3-823d-d56f3146b94e)
 
-## Access the phpMyadmin:
+2. Access the phpMyadmin:
 
 - Open your web browser and go to https://www.phpmyadmin.net/).
 
