@@ -223,7 +223,7 @@ After write this code in it should looks like this
 ### Some example of use cases:
 
 We provide some intrustions for some commmon cases and the code for these cases:
-- You should copy the code in the SQL in phpMyadmin
+- Open the SQL in phpMyadmin and then use our provided code
   ![image](https://github.com/minhfarm/ComputingDesignProject/assets/125583435/2de0b23f-cf5e-4472-9ad5-16cccf9bb33e)
 
 1. Logging account 
