@@ -28,7 +28,7 @@ Before you begin, make sure you have the following installed on your machine:
    CREATE DATABASE IF NOT EXISTS test_dtb DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
    USE test_dtb;
 
-2. Create Table in Database:
+2. Create Tables in Database:
 
    ```sql
       SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
