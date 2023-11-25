@@ -1,6 +1,6 @@
-# Project Title
+# Major-specific technology
 
-Welcome to the [Your Project Name] repository! This project utilizes XAMPP for local development and includes guidelines on setting up XAMPP and editing PHP files.
+Welcome to the Computing Boiz Team repository! This project utilizes XAMPP for local development and includes guidelines on setting up XAMPP and provided code to run database .
 
 ## Getting Started
 
@@ -242,6 +242,10 @@ We provide some intrustions for some commmon cases and the code for these cases:
      AND specialization = 'Computer Science'
    ORDER BY salary DESC; 
    ### Use a Code Editor:
+4. See a users' registered course
+   ```sql
+   SELECT * FROM registered_courses
+   WHERE userID = 1;
 
 ## Contributing
 
