@@ -15,11 +15,12 @@ Before you begin, make sure you have the following installed on your machine:
 
 - Open XAMPP and start the MySql server.
 
-![image](https://github.com/minhfarm/ComputingDesignProject/assets/125583435/d5998d58-3910-43d3-823d-d56f3146b94e)
+![image](https://github.com/minhfarm/ComputingDesignProject/assets/125583435/c35c7973-4d28-48e6-9f3e-2f06d22f988d)
+
 
 2. Access the phpMyadmin:
 
-- Open your web browser and go to https://www.phpmyadmin.net/).
+- Open your web browser and go to http://localhost/phpmyadmin/.
 
 ## Set up the database
 1. Create databases:
