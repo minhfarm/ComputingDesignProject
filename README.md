@@ -10,6 +10,7 @@ Before you begin, make sure you have the following installed on your machine:
 
 - XAMPP: [Download and Install XAMPP](https://www.apachefriends.org/index.html)
 
+# Set up the local host
 ## Start XAMPP:
 
 - Open XAMPP and start the MySql server.
