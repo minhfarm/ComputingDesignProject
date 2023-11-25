@@ -248,6 +248,22 @@ We provide some intrustions for some commmon cases and the code for these cases:
    ```sql
    SELECT * FROM registered_courses
    WHERE userID = 1;
+5. Company to see User Profile
+   ```sql
+   SELECT * FROM users WHERE id = 1;
+6. User to see course Information
+   ```sql
+   SELECT * FROM courses WHERE id = 1;
+7. To see a users' contact
+   ```sql
+   SELECT * FROM user_contact WHERE userID = 1;
+8. User to get links of interviews
+   ```sql
+   SELECT meetingLink FROM interviews WHERE userID = 1;
+9. Job Search
+    ```sql
+    SELECT * FROM jobs;
+     
 
 ## Contributing
 
